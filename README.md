@@ -1,5 +1,5 @@
 - 🌟 Hi, I’m Juan Fer - @Fercosmicking he/him
-- 🌱 I’m currently learning C# and want to learn Python
+- 🌱 I’m currently learning C#, Python, C++ and Javascript
 
 
 <!---
