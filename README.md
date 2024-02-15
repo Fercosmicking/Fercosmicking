@@ -1,4 +1,4 @@
-- 🌟 Hi, I’m Juan Fer - @Fercosmicking he/him
+- 🌟 Hi, I’m Juan Fer
 - 🌱 I’m currently learning C#, Python, C++ and Javascript
 
 
